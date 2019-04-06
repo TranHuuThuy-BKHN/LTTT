@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ComputerScience:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ComputerScience_jar</output-path>
+    <root id="archive" name="ComputerScience.jar">
+      <element id="module-output" name="ComputerScience" />
+    </root>
+  </artifact>
+</component>

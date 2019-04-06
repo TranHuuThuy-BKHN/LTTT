@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XauNguyenThuy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XauNguyenThuy_jar</output-path>
+    <root id="archive" name="XauNguyenThuy.jar">
+      <element id="module-output" name="XauNguyenThuy" />
+    </root>
+  </artifact>
+</component>
